@@ -1,0 +1,129 @@
+Restaurant Name: Gourmet Haven
+
+Menu:
+
+Item: Espresso Coffee
+Ingredients: Finely ground coffee beans, water
+Taste: Strong, bold, slightly bitter
+Price: $2.50
+Cooking Process: Hot water is forced through finely ground coffee under high pressure to create a concentrated shot.
+
+Item: Latte Coffee
+Ingredients: Espresso, steamed milk, milk foam
+Taste: Smooth, creamy with mild coffee flavor
+Price: $3.75
+Cooking Process: A shot of espresso is mixed with steamed milk and topped with a light layer of foam.
+
+Item: Cappuccino Coffee
+Ingredients: Espresso, steamed milk, thick milk foam
+Taste: Rich, creamy, with a strong coffee essence
+Price: $3.50
+Cooking Process: Equal parts espresso, steamed milk, and foam served in a small cup.
+
+Item: Cold Brew Coffee
+Ingredients: Coarsely ground coffee, cold water
+Taste: Smooth, less acidic, mildly sweet
+Price: $4.00
+Cooking Process: Coffee grounds are steeped in cold water for 12–24 hours and then filtered.
+
+Item: Americano Coffee
+Ingredients: Espresso, hot water
+Taste: Mild, smooth, slightly bitter
+Price: $2.75
+Cooking Process: Espresso is diluted with hot water to create a lighter coffee drink.
+
+Item: Margherita Pizza
+Ingredients: Tomato sauce, mozzarella, basil
+Taste: Savory, cheesy, slightly tangy
+Price: $8.99
+Cooking Process: Wood-fired base topped with tomato, cheese, and basil leaves.
+
+Item: Pepperoni Pizza
+Ingredients: Mozzarella, pepperoni, tomato sauce
+Taste: Spicy, cheesy, and savory
+Price: $9.99
+Cooking Process: Layered with tomato sauce, pepperoni slices and baked.
+
+Item: BBQ Chicken Pizza
+Ingredients: Grilled chicken, BBQ sauce, red onions, cheese
+Taste: Smoky, tangy, and flavorful
+Price: $10.50
+Cooking Process: Topped with grilled chicken and barbecue sauce then baked.
+
+Item: Veggie Supreme Pizza
+Ingredients: Bell peppers, onions, olives, mushrooms, mozzarella
+Taste: Crunchy, cheesy, earthy
+Price: $9.75
+Cooking Process: Loaded with vegetables and baked in oven.
+
+Item: Veggie Burger
+Ingredients: Veggie patty, lettuce, tomato, vegan mayo
+Taste: Savory, crunchy, plant-based
+Price: $9.25
+Cooking Process: Veggie patty grilled and served with toppings on bun.
+
+Item: Cheeseburger
+Ingredients: Beef patty, cheddar, onions, lettuce, ketchup
+Taste: Juicy, cheesy, tangy
+Price: $10.50
+Cooking Process: Beef patty grilled and stacked with cheese and condiments.
+
+Item: Chicken Burger
+Ingredients: Grilled chicken, lettuce, tomato, mayo
+Taste: Tender, savory, slightly creamy
+Price: $9.75
+Cooking Process: Chicken fillet grilled and served in bun with toppings.
+
+Item: Double Beef Burger
+Ingredients: Two beef patties, cheese, lettuce, onions, sauce
+Taste: Very juicy, cheesy, and filling
+Price: $12.00
+Cooking Process: Double patty grilled and assembled with cheese.
+
+Item: Chocolate Lava Cake
+Ingredients: Dark chocolate, eggs, flour, sugar
+Taste: Warm, gooey, rich chocolate
+Price: $6.00
+Cooking Process: Molten center cake baked briefly for soft interior.
+
+Item: Cheesecake
+Ingredients: Cream cheese, sugar, eggs, biscuit base
+Taste: Tangy, creamy, sweet
+Price: $5.75
+Cooking Process: Baked cream cheese filling over biscuit crust.
+
+Item: Brownie Sundae Cake
+Ingredients: Brownie, vanilla ice cream, chocolate sauce
+Taste: Hot and cold, rich and sweet
+Price: $6.50
+Cooking Process: Warm brownie topped with ice cream and syrup.
+
+Item: Fruit Tart Cake
+Ingredients: Pastry shell, custard, seasonal fruits
+Taste: Sweet, fresh, tangy
+Price: $6.25
+Cooking Process: Pastry filled with custard and topped with fresh fruits.
+
+Item: Spaghetti Bolognese Pasta
+Ingredients: Spaghetti, minced beef, tomato sauce
+Taste: Savory, rich, meaty
+Price: $11.00
+Cooking Process: Spaghetti topped with slow-cooked meat sauce.
+
+Item: Pasta Alfredo
+Ingredients: Fettuccine, cream, butter, parmesan
+Taste: Creamy, buttery, cheesy
+Price: $10.00
+Cooking Process: Pasta tossed in Alfredo sauce made with cream and cheese.
+
+Item: Pesto Penne Pasta
+Ingredients: Penne, basil pesto, garlic, olive oil
+Taste: Herby, nutty, fragrant
+Price: $10.50
+Cooking Process: Penne pasta coated in homemade pesto sauce.
+
+Item: Mac and Cheese Pasta
+Ingredients: Elbow macaroni, cheddar, milk, butter
+Taste: Cheesy, creamy, comforting
+Price: $9.50
+Cooking Process: Pasta mixed with creamy cheese sauce and baked.
